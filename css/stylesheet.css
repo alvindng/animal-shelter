@@ -1,0 +1,70 @@
+body {
+  font-family: sans-serif;
+  background-color: blue;
+}
+
+header {
+  font-size: 40px;
+  text-align: center;
+  color: white;
+}
+
+h2{
+  text-align: center;
+  color: white;
+}
+h3{
+  font-size: 40px;
+  font-style: italic;
+  text-align: center;
+}
+
+.animals1 {
+  float: left;
+  list-style: block;
+  font-size: 20px;
+  font-style: normal;
+  width: 20%;
+  margin: 0px 5px 0px 5px;
+  padding: 0px 5px 0px 5px;
+  border: 2px solid white;
+}
+
+.animals2 {
+  float: left;
+  list-style: block;
+  font-size: 20px;
+  font-style: normal;
+  width: 20%;
+  margin: 0px 5px 0px 5px;
+  padding: 0px 5px 0px 5px;
+  border: 2px solid white;
+}
+.animals3 {
+  float: left;
+  list-style: block;
+  font-size: 20px;
+  font-style: normal;
+  width: 20%;
+  margin: 0px 5px 0px 5px;
+  padding: 0px 5px 0px 5px;
+  border: 2px solid white;
+}
+
+.animals4 {
+  float: left;
+  list-style: block;
+  font-size: 20px;
+  font-style: normal;
+  width: 20%;
+  margin: 0px 5px 0px 5px;
+  padding: 0px 5px 0px 5px;
+  border: 2px solid white;
+}
+img {
+  width: 75%;
+}
+
+/*.removedots{
+  list-style: none;
+}*/
